@@ -6,7 +6,7 @@
 header {
 	width: 100%;
   text-align: left;
-  background-color: rgba(101, 86, 229,0.6);
+  background-color: rgba(209, 113, 33,0.6);
   color: white;
   padding: 20px;
   height: 80px;
@@ -79,7 +79,7 @@ header {
 	z-index: -1;
 }
 .foot {
-	background-color: rgba(101, 86, 229, 0.6);
+	background-color: rgba(209, 113, 33,0.6, 0.6);
 	margin-top: 45%; 
 	width: 100%;
 	padding: 20px 0px;
@@ -91,6 +91,6 @@ header {
 
 }
 .marca{
-	background-color: rgba(37, 20, 174 ,0.7);
+	background-color: rgba(151, 77, 15 ,0.7);
 }
 
